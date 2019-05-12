@@ -1,6 +1,6 @@
 # Python3 Basic Site Downloader
 
-basit , hızlı ve etkilidir . Basit temaları indirmenizi sağlar sadece indexteki kaynakları indirmeye çalışır.
+Basit temaları indirmenizi sağlar sadece indexteki kaynakları indirmeye çalışır.
 Sitelere göre hatalar verebilir 
 
 # Ekran Görüntüsü
